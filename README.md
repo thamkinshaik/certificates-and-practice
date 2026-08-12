@@ -1,8 +1,7 @@
 # 📜 Certificates & Practice
 
-Welcome to my learning and professional development repository!
-
-This repository contains my **professional certifications, course completion certificates, and daily practice files** related to Data Analytics, Python, SQL, Power BI, AI, and Prompt Engineering.
+Welcome to my learning and professional development repository!  
+This repository contains my professional certifications, course completion certificates, and daily practice files related to **Data Analytics, Python, SQL, Power BI, AI, and Prompt Engineering**.
 
 ## 🎓 Professional Certificates
 
@@ -15,6 +14,8 @@ This repository contains my **professional certifications, course completion cer
 - AI Architect Certificate
 - Advanced NLP Certificate
 - Infosys Springboard – Prompt Engineering Certificate
+- Infosys Springboard – NLP Certificate
+- AI in Industry Certificate
 
 ### 🐍 Programming & Problem Solving
 - GeeksforGeeks Python Certificate
@@ -23,7 +24,6 @@ This repository contains my **professional certifications, course completion cer
 ## 💻 Practice & Learning
 
 This repository also includes my regular practice work:
-
 - 🐍 Python
 - 🗄️ SQL / MySQL
 - 📊 Power BI
@@ -35,18 +35,20 @@ This repository also includes my regular practice work:
 
 | File / Folder | Description |
 |---|---|
-| `Prompt Engineering certificates.pdf.png` | Infosys Springboard Prompt Engineering Certificate |
-| `ADVANCE NLP CERTIFICATE.png` | Advanced NLP Certificate |
-| `AI-Architect-Certificate.png` | AI Architect Certificate |
-| `ExcelR DA Training.jpg` | ExcelR Data Analyst Certificate |
-| `Nasscom certificate.jpg` | NASSCOM Certificate |
-| `Python GFG.jpg` | Python Certificate |
-| `GFG 160.jpg` | Problem Solving Certificate |
-| `SQL PRACTICE.sql` | SQL Practice Questions |
-| `practice-log.md` | Daily Learning & Practice Log |
+| Prompt Engineering certificates.pdf.png | Infosys Springboard Prompt Engineering Certificate |
+| ADVANCE NLP CERTIFICATE.png | Advanced NLP Certificate |
+| Infosys_NLP.png | Infosys Springboard NLP Certificate |
+| AI in Industry Certificate.pdf | AI in Industry Certificate |
+| AI-Architect-Certificate.png | AI Architect Certificate |
+| ExcelR DA Training.jpg | ExcelR Data Analyst Certificate |
+| Nasscom certificate.jpg | NASSCOM Certificate |
+| infosys springboard excel.jpg | Excel for Data Analyst Certificate |
+| Python GFG.jpg | Python Certificate |
+| GFG 160.jpg | Problem Solving Certificate |
+| SQL PRACTICE.sql | SQL Practice Questions |
+| practice-log.md | Daily Learning & Practice Log |
 
 ## 🚀 Skills I'm Developing
-
 - Python
 - SQL
 - Power BI
@@ -57,11 +59,8 @@ This repository also includes my regular practice work:
 - Problem Solving
 
 ## 🎯 Career Goal
-
-Aspiring **Data Analyst / AI & ML professional** passionate about data, technology, and continuous learning.
+Aspiring Data Analyst / AI & ML professional passionate about data, technology, and continuous learning.
 
 ---
-
-⭐ Thanks for visiting my repository!
-
-**Let's Connect & Learn Together!**
+⭐ Thanks for visiting my repository!  
+Let's Connect & Learn Together!
